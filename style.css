@@ -1,0 +1,57 @@
+.my {
+    width: 150px;
+    height: 100px;
+}
+
+header {
+    background-color: rgb(220, 255, 66);
+}
+
+body {
+    background-color: yellow;
+}
+
+h1 {
+    font-family: fantasy;
+    border-radius: 20px;
+    border: 1px solid rgb(68, 0, 255);
+    background-color: rgb(182, 219, 16);
+    text-align: center;
+    color: rgb(64, 109, 192);
+}
+
+main p {
+    color: rgb(30, 89, 167);
+}
+
+h2 {
+    font-family: fantasy;
+    border-radius: 20px;
+    border: 1px solid rgb(68, 0, 255);
+    background-color: rgb(182, 219, 16);
+    text-align: center;
+    color: rgb(64, 109, 192);
+}
+
+table {
+    font-family: cursive;
+    color: rgb(5, 71, 5);
+    border: 2px solid rgb(33, 2, 92) ;
+}
+
+td {
+   border: 2px solid rgb(4, 2, 92) ;
+}
+
+footer {  
+   background-color: rgb(102, 66, 0);
+}
+
+footer a {
+    color: honeydew;
+    text-decoration: none;
+}
+
+footer p {
+   color: honeydew; 
+}
